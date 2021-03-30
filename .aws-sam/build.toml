@@ -8,4 +8,11 @@ source_md5 = ""
 packagetype = "Zip"
 functions = ["HelloWorldFunction"]
 
+[function_build_definitions.fd1f8933-4840-4f4d-8a30-141d3b192993]
+codeuri = "C:\\Users\\Sagor Paul\\OneDrive\\Desktop\\Sam\\sam-app-assignment\\dynamodbstream_processor"
+runtime = "python3.8"
+source_md5 = ""
+packagetype = "Zip"
+functions = ["DynamoDBStreamProcessor"]
+
 [layer_build_definitions]
